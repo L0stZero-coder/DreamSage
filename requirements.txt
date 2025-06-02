@@ -1,0 +1,3 @@
+Newtonsoft.Json >= 13.0.3
+System.Speech (built-in .NET Framework assembly)
+Microsoft.CognitiveServices.Speech (optional, if using Azure STT/TTS)
