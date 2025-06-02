@@ -119,7 +119,7 @@ MIT License. See `LICENSE` file for details.
 
 ## 💬 Credits
 
-Developed by **[Your Name]**  
+Developed by **[L0stZero-coder]**  
 Powered by OpenAI GPT and .NET Speech Libraries
 
 ---
